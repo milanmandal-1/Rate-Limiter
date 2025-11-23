@@ -9,3 +9,4 @@ This project demonstrates a Microservices-based architecture built using Spring 
 The system consists of multiple independent services that communicate with each other to provide comprehensive hotel-rating functionality. This architecture promotes scalability, resilience, and loose coupling, making it easier to develop, deploy, and maintain individual components.
 
 ##  architectural diagram
+http://googleusercontent.com/image_generation_content/1
